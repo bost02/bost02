@@ -1,4 +1,6 @@
-### Hi there 👋
+# 김홍준
+밥을 좋아한다
+빵을 좋아한다
 
 <!--
 **bost02/bost02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
