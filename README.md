@@ -13,7 +13,9 @@
 
 ## 이 학교에 오게 된 계기
 
-일반고는 가서 할 자신이 없는 상황에서 친구가 소마고를 간다길래 나도 가볼까 하고 코딩을 해봤는데, 의외로 취향에 잘 맞아서 오게 되었다.(현욱아 고맙다)
+일반고는 가서 할 자신이 없는 상황에서 친구가 소마고를 간다길래 나도 가볼까 하고 코딩을 해봤는데, 의외로 취향에 잘 맞아서 오게 되었다.
+
+(현욱아 고맙다)
 
 <!--
 **bost02/bost02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
