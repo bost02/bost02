@@ -18,3 +18,6 @@
 일반고는 가서 할 자신이 없는 상황에서 친구가 소마고를 간다길래 나도 가볼까 하고 코딩을 해봤는데, 의외로 취향에 잘 맞아서 오게 되었다.
 
 (현욱아 고맙다)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbost02%2Fbost02%2Fblob%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%232EF9EB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
