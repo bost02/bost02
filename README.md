@@ -1,4 +1,4 @@
-Kimhongjun(김홍준)
+KIM HONGJUN(김홍준)
 
 
 
